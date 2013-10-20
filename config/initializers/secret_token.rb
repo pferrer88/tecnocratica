@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Tecnocratica::Application.config.secret_token = '5b08c6c9fa6aca2304bddd7800143dcf3d69653fa62557c91311c9367a28f9b5e8ef7f1d9ba436f77634d43741d323e6c9178bb8af5744e5bd72a442d3688af6'
+Tecnocratica::Application.config.secret_token = 'b7f58566c5bfb848385602ac2b11b7a6ff0a18f91f8d8c48e92ca2137620bd0526d7deb353c1026745900114d73ee7f265e3c3487c5eed285b5c4626c91e0d23'
